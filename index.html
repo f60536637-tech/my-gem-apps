@@ -8,7 +8,7 @@
     body { font-family: Arial, sans-serif; background: #f4f4f9; padding: 20px; max-width: 800px; margin: auto; }
     h1 { text-align: center; color: #333; }
     .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 10px; display: flex; align-items: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-    .card img { width: 60px; height: 60px; border-radius: 10px; margin-right: 15px; }
+    .card img { width: 60px; height: 60px; border-radius: 10px; margin-right: 15px; object-fit: cover; }
     .card-content h3 { margin: 0 0 5px 0; color: #2c3e50; }
     .card-content p { margin: 0 0 8px 0; color: #666; font-size: 14px; }
     .btn { background: #28a745; color: white; text-decoration: none; padding: 6px 12px; border-radius: 5px; font-size: 14px; display: inline-block; }
@@ -19,32 +19,37 @@
   <div id="apps-container">Apps load ho rahi hain...</div>
 
   <script>
-    // Force fresh fetch every time without caching
-    fetch('./apps.json?v=' + Date.now(), { cache: "no-store" })
-      .then(response => response.json())
-      .then(data => {
-        let html = '';
-        if(!data || data.length === 0) {
-          document.getElementById('apps-container').innerHTML = "Koi app nahi mili.";
+    // Direct fetch with cache-busting timestamp
+    var jsonUrl = 'apps.json?v=' + Date.now();
+    
+    fetch(jsonUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        var container = document.getElementById('apps-container');
+        if (!data || data.length === 0) {
+          container.innerHTML = "Koi app nahi mili.";
           return;
         }
-        data.forEach(app => {
-          html += `
-            <div class="card">
-              <img src="${app.icon || ''}" alt="App Icon">
-              <div class="card-content">
-                <h3>${app.title} (⭐ ${app.score})</h3>
-                <p>${app.description}</p>
-                <small>Downloads: ${app.installs}</small><br><br>
-                <a href="${app.url}" class="btn" target="_blank">Download App</a>
-              </div>
-            </div>
-          `;
-        });
-        document.getElementById('apps-container').innerHTML = html;
+        
+        var html = '';
+        for (var i = 0; i < data.length; i++) {
+          var item = data[i];
+          html += '<div class="card">' +
+                    '<img src="' + (item.icon || '') + '" alt="App Icon">' +
+                    '<div class="card-content">' +
+                      '<h3>' + (item.title || 'App') + ' (⭐ ' + (item.score || '4.0') + ')</h3>' +
+                      '<p>' + (item.description || '') + '</p>' +
+                      '<small>Downloads: ' + (item.installs || '100+') + '</small><br><br>' +
+                      '<a href="' + (item.url || '#') + '" class="btn" target="_blank">Download App</a>' +
+                    '</div>' +
+                  '</div>';
+        }
+        container.innerHTML = html;
       })
-      .catch(err => {
-        document.getElementById('apps-container').innerHTML = "Apps load karne me dikkat hui: " + err;
+      .catch(function(err) {
+        document.getElementById('apps-container').innerHTML = "Error loading apps: " + err;
       });
   </script>
 </body>
