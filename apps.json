@@ -1,5 +1,21 @@
 [
     {
+        "title": "OmniTools - All-in-One Toolkit",
+        "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
+        "score": 4.7,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
+        "description": "The Swiss-Army app for your phone - fast & offline-ready...."
+    },
+    {
+        "title": "All Smart Tools - Daily Uses",
+        "icon": "https://play-lh.googleusercontent.com/QF48zb-hS1I41jeluuOMTuChhDzHHbqaD4KiEZHRxbVlVMndnDqVVUOhhwotCAFaVwNgQPXFtbAHKz2S3rFKeA",
+        "score": 3.9,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.sm.allsmarttools&hl=en&gl=us",
+        "description": "125+ daily utility tools: converter, scanner, calculator & more..."
+    },
+    {
         "title": "ToolBox Pro",
         "icon": "https://play-lh.googleusercontent.com/_RHgjDbi4neFaBlkt3XWMiUMRzKckdvYQikror9TLG7OuZ-0theJmya04Y-PWodtzhr-zKGD90IA7Iu9fL9n8Ns",
         "score": 4.6,
@@ -8,19 +24,19 @@
         "description": "Your ultimate digital toolkit with 80+ calculators, converters and dev utilities..."
     },
     {
-        "title": "Dailies: Habit Tracker",
-        "icon": "https://play-lh.googleusercontent.com/70g8vaIUwZkrZTx-BgaIhE-tnbV9hXcTk8oiTgy71vfNe8ESZ8IYZFtialK4K34BNxGJY8OCjZWf7HhSoNzkvw",
-        "score": 4.4,
+        "title": "Flex Utility Premium",
+        "icon": "https://play-lh.googleusercontent.com/QSiFVkAisdK_Qz2U4gReFvH6udawk_GBHBwqhU_AaBg-EFVPtf8KViKqKsnGPIElSxzb7-ZNPX8tMJNyM0qP",
+        "score": 4.7,
         "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=app.gainaura.habits&hl=en&gl=us",
-        "description": "Habit tracker & streak counter: streaks, daily habits, habit grid and widget..."
+        "url": "https://play.google.com/store/apps/details?id=us.flexswag.flexutilitypremium&hl=en&gl=us",
+        "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
     },
     {
-        "title": "1 Day TODO: Daily Task Manager",
-        "icon": "https://play-lh.googleusercontent.com/_Qy8tMlqm36yyb4RvCI_nTxgiOdvQLQOeltNDnsXygKP00k0X6zaIKw4AwBPPHx1OlKfUWOubbzkfd0-9AAC8A",
-        "score": 4.8,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.free_simple_apps.daytodo&hl=en&gl=us",
-        "description": "Daily task manager & to-do list for organizing tasks and boosting productivity!..."
+        "title": "Daily Habits",
+        "icon": "https://play-lh.googleusercontent.com/hfdij8Yo_-Anm_gdZMvcO-XOcxpLTBSnMeRDMi0elwwhqFzElrxkMwRq4NAtywhKujygRdO7Gx1-hEWQJ6Ln",
+        "score": 4.7,
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.codiceapps.dailyhabits&hl=en&gl=us",
+        "description": "Track habits, set goals, get reminders and build daily routines..."
     }
 ]
