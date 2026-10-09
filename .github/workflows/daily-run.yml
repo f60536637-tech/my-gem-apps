@@ -1,0 +1,37 @@
+name: Daily Play Store Scraper
+
+on:
+  schedule:
+    # Har din raat 12 baje UTC (BHARAT ke samay raat 5:30 AM) apne aap chalega
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Isse aap manually bhi "Run" button daba kar check kar sakte hain
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repo Code Download
+      uses: actions/checkout@v3
+
+    - name: Python Setup
+      uses: actions/setup-python@v4
+      with:
+        python-python-version: '3.10'
+
+    - name: Play Store Library Install
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-play-scraper
+
+    - name: Run Scraper Script
+      run: |
+        python scraper.py
+
+    - name: Commit and Push Updated Apps Data
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add apps.json
+        git commit -m "Auto-updated daily apps list" || exit 0
+        git push
