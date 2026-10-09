@@ -19,15 +19,19 @@
   <div id="apps-container">Apps load ho rahi hain...</div>
 
   <script>
-    // Timestamp query added so browser always fetches fresh apps.json
-    fetch('apps.json?v=' + new Date().getTime())
+    // Force fresh fetch every time without caching
+    fetch('./apps.json?v=' + Date.now(), { cache: "no-store" })
       .then(response => response.json())
       .then(data => {
         let html = '';
+        if(!data || data.length === 0) {
+          document.getElementById('apps-container').innerHTML = "Koi app nahi mili.";
+          return;
+        }
         data.forEach(app => {
           html += `
             <div class="card">
-              <img src="${app.icon}" alt="App Icon">
+              <img src="${app.icon || ''}" alt="App Icon">
               <div class="card-content">
                 <h3>${app.title} (⭐ ${app.score})</h3>
                 <p>${app.description}</p>
@@ -40,11 +44,8 @@
         document.getElementById('apps-container').innerHTML = html;
       })
       .catch(err => {
-        document.getElementById('apps-container').innerHTML = "Apps load karne me dikkat hui.";
+        document.getElementById('apps-container').innerHTML = "Apps load karne me dikkat hui: " + err;
       });
   </script>
 </body>
-</html>﻿
-
-
-                
+</html>
