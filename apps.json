@@ -120,20 +120,20 @@
         "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
     },
     {
-        "title": "Indian Utility Hub",
-        "icon": "https://play-lh.googleusercontent.com/dVuMMERBiqFINx41sD45TCWkUe5msx8iRnCfXBmTSIzsvFfQ1cS0R2BhCdOxpJ8hfGYWx4P-XnTlT5YkZw9CxA",
-        "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=rkm.app.indianutilityhub&hl=en&gl=us",
-        "description": "Useful everyday tools and utilities, all in one simple app..."
-    },
-    {
         "title": "QuickTools: Utility Tools",
         "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
         "score": 4.0,
         "installs": "100+",
         "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
         "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
+        "title": "Indian Utility Hub",
+        "icon": "https://play-lh.googleusercontent.com/dVuMMERBiqFINx41sD45TCWkUe5msx8iRnCfXBmTSIzsvFfQ1cS0R2BhCdOxpJ8hfGYWx4P-XnTlT5YkZw9CxA",
+        "score": 4.0,
+        "installs": "10+",
+        "url": "https://play.google.com/store/apps/details?id=rkm.app.indianutilityhub&hl=en&gl=us",
+        "description": "Useful everyday tools and utilities, all in one simple app..."
     },
     {
         "title": "Omni Tools – All in One Tools",
