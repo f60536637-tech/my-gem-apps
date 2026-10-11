@@ -1,5 +1,13 @@
 [
     {
+        "title": "Google Calendar",
+        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
+        "score": 4.6,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
+        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
+    },
+    {
         "title": "Forest: Stay Focused",
         "icon": "https://play-lh.googleusercontent.com/l879lJr_CUUdv98GPqVuvLd-C7eG9A3QL4GngHwQ16ziR8TMvRJxSSqamDKNeu7YYNkP_LR5-XzB9Uwu4J2D",
         "score": 4.3,
@@ -30,14 +38,6 @@
         "installs": "1,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
         "description": "Create content, explore ideas, and get answers with Copilot...."
-    },
-    {
-        "title": "Google Calendar",
-        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.6,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
-        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
     },
     {
         "title": "Google Drive",
@@ -72,12 +72,12 @@
         "description": "Google Keep..."
     },
     {
-        "title": "Listub: Lists, Tasks & Plans",
-        "icon": "https://play-lh.googleusercontent.com/JrQianOPdWXp_0Ce8KAqNB7tXBGsNbyx6vONARW7SsHw2UoOzxpa_mTG-mgYc1DPTwnmVJkNCuN8swII1WPxEg",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.listub.app&hl=en&gl=us",
-        "description": "Shopping list, to-do list & planner - organizer for life, friends and family..."
+        "title": "Microsoft To Do: Lists & Tasks",
+        "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us",
+        "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
     },
     {
         "title": "All Tools: 70+ Utilities",
@@ -90,7 +90,7 @@
     {
         "title": "Toolbox - Everyday Utilities",
         "icon": "https://play-lh.googleusercontent.com/AnPnj8OL90J6Td9EXjpIhBLD2GchONn1VQN8Y8uXm-mWAvVeC5BN-o5rDXE2g7cZWeBMEPgRcOs1eEJVgo-sh8A",
-        "score": 4.0,
+        "score": 5.0,
         "installs": "500+",
         "url": "https://play.google.com/store/apps/details?id=com.vedtechnologies.toolbox&hl=en&gl=us",
         "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
@@ -120,20 +120,20 @@
         "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
     },
     {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
-        "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
-    },
-    {
         "title": "Indian Utility Hub",
         "icon": "https://play-lh.googleusercontent.com/dVuMMERBiqFINx41sD45TCWkUe5msx8iRnCfXBmTSIzsvFfQ1cS0R2BhCdOxpJ8hfGYWx4P-XnTlT5YkZw9CxA",
         "score": 4.0,
         "installs": "10+",
         "url": "https://play.google.com/store/apps/details?id=rkm.app.indianutilityhub&hl=en&gl=us",
         "description": "Useful everyday tools and utilities, all in one simple app..."
+    },
+    {
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
     },
     {
         "title": "Omni Tools – All in One Tools",
@@ -288,6 +288,14 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
+        "title": "Cool Black Launcher Theme",
+        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
+        "score": 4.5,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
+        "description": "Cool Black Launcher Theme to Make your phone stylish..."
+    },
+    {
         "title": "ColabTools",
         "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
         "score": 4.0,
@@ -302,14 +310,6 @@
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
-    },
-    {
-        "title": "Cool Black Launcher Theme",
-        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
-        "score": 4.5,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
-        "description": "Cool Black Launcher Theme to Make your phone stylish..."
     },
     {
         "title": "Smart Tools - All In One",
