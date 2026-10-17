@@ -24,6 +24,14 @@
         "description": "Chat to start writing, planning, creating, learning and more with Google AI..."
     },
     {
+        "title": "Microsoft Copilot",
+        "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
+        "score": 4.5,
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
+        "description": "Create content, explore ideas, and get answers with Copilot...."
+    },
+    {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.6,
@@ -32,20 +40,12 @@
         "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
     },
     {
-        "title": "Google Keep - Notes and lists",
-        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
-        "score": 4.7,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
-        "description": "Google Keep..."
-    },
-    {
-        "title": "Microsoft Copilot",
-        "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
-        "score": 4.5,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
-        "description": "Create content, explore ideas, and get answers with Copilot...."
+        "title": "Google Drive",
+        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
+        "score": 4.3,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
+        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
         "title": "Todoist: To Do List & Calendar",
@@ -64,20 +64,20 @@
         "description": "Edit and sign your PDFs quickly. Do it all in one app...."
     },
     {
-        "title": "Google Drive",
-        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
-        "score": 4.3,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
-        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
-    },
-    {
         "title": "Microsoft To Do: Lists & Tasks",
         "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
         "score": 4.6,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us",
         "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
+    },
+    {
+        "title": "Google Keep - Notes and lists",
+        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
+        "score": 4.7,
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
+        "description": "Google Keep..."
     },
     {
         "title": "All Tools: 70+ Utilities",
@@ -112,14 +112,6 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
-        "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
-    },
-    {
         "title": "IP Tools: Network Utilities",
         "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
         "score": 4.6,
@@ -142,6 +134,14 @@
         "installs": "10+",
         "url": "https://play.google.com/store/apps/details?id=rkm.app.indianutilityhub&hl=en&gl=us",
         "description": "Useful everyday tools and utilities, all in one simple app..."
+    },
+    {
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
     },
     {
         "title": "Omni Tools – All in One Tools",
@@ -296,6 +296,14 @@
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
+        "title": "Cool Black Launcher Theme",
+        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
+        "score": 4.5,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
+        "description": "Cool Black Launcher Theme to Make your phone stylish..."
+    },
+    {
         "title": "ToolBox Pro: All-in-One Tools",
         "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
         "score": 4.6,
@@ -310,13 +318,5 @@
         "installs": "5,000+",
         "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
         "description": "ColabTools is an enterprise-level construction management app...."
-    },
-    {
-        "title": "Smart Tools - All In One",
-        "icon": "https://play-lh.googleusercontent.com/5ICBja3ydraF98pbG-E08J2Yi8n42ysnA_gmmNd_0K_rOH3HeVmhSQ0c9JgLkqASv4nANubZUaB0XBZnT6p2",
-        "score": 4.5,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.pcmehanik.smarttoolbox&hl=en&gl=us",
-        "description": "Useful kit of tools with carpenter, construction, measure tools and utilities...."
     }
 ]
