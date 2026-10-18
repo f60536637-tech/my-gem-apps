@@ -24,14 +24,6 @@
         "description": "Chat to start writing, planning, creating, learning and more with Google AI..."
     },
     {
-        "title": "Microsoft Copilot",
-        "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
-        "score": 4.5,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
-        "description": "Create content, explore ideas, and get answers with Copilot...."
-    },
-    {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.6,
@@ -40,12 +32,20 @@
         "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
     },
     {
-        "title": "Google Drive",
-        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
-        "score": 4.3,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
-        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
+        "title": "Microsoft Copilot",
+        "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
+        "score": 4.5,
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
+        "description": "Create content, explore ideas, and get answers with Copilot...."
+    },
+    {
+        "title": "Google Keep - Notes and lists",
+        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
+        "score": 4.7,
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
+        "description": "Google Keep..."
     },
     {
         "title": "Todoist: To Do List & Calendar",
@@ -64,20 +64,20 @@
         "description": "Edit and sign your PDFs quickly. Do it all in one app...."
     },
     {
-        "title": "Microsoft To Do: Lists & Tasks",
-        "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us",
-        "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
+        "title": "Google Drive",
+        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
+        "score": 4.3,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
+        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
-        "title": "Google Keep - Notes and lists",
-        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
-        "score": 4.7,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
-        "description": "Google Keep..."
+        "title": "Listub: Lists, Tasks & Plans",
+        "icon": "https://play-lh.googleusercontent.com/JrQianOPdWXp_0Ce8KAqNB7tXBGsNbyx6vONARW7SsHw2UoOzxpa_mTG-mgYc1DPTwnmVJkNCuN8swII1WPxEg",
+        "score": 4.0,
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.listub.app&hl=en&gl=us",
+        "description": "Shopping list, to-do list & planner - organizer for life, friends and family..."
     },
     {
         "title": "All Tools: 70+ Utilities",
@@ -112,6 +112,14 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
         "title": "IP Tools: Network Utilities",
         "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
         "score": 4.6,
@@ -136,14 +144,6 @@
         "description": "Useful everyday tools and utilities, all in one simple app..."
     },
     {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
-        "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
-    },
-    {
         "title": "Omni Tools – All in One Tools",
         "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
         "score": 4.0,
@@ -160,28 +160,12 @@
         "description": "Useful tools and calculators for everyday tasks in one convenient app...."
     },
     {
-        "title": "IndusInd Bank: Savings A/C, FD",
-        "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.2,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
-        "description": "Savings Account, Fixed Deposit (FD), Zero Balance savings account..."
-    },
-    {
         "title": "INDIE For Business",
         "icon": "https://play-lh.googleusercontent.com/BbUxfzC7hExI-CHfYkJgfrbnN6bJKPgsxZv2Lrjtvi90HX8T1FoJU6wbd98DmPdTldwzYKgIanu3rC4NzB04DS4",
         "score": 4.0,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indiebiz&hl=en&gl=us",
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
-    },
-    {
-        "title": "Indies' Lies",
-        "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
-        "score": 4.3,
-        "installs": "500,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.yokagame.ProjectS&hl=en&gl=us",
-        "description": "Indies' Lies is a single-player roguelike deck building game...."
     },
     {
         "title": "IndusInd Insurance",
@@ -192,6 +176,14 @@
         "description": "IndusInd Insurance App (formerly Reliance Self-i) by IndusInd General Insurance..."
     },
     {
+        "title": "Digital Rupee by IndusInd Bank",
+        "icon": "https://play-lh.googleusercontent.com/WYg2Vb7lYJHfpO_gKwBiAkm8f20ZOE8MBIZPkYbWZrFW_n12bTmnaOIY4-1Jl-yF9HexbLbNKw9gsuGUsgxUMA",
+        "score": 4.0,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=in.sarvatra.erupeeINDUSIND&hl=en&gl=us",
+        "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
+    },
+    {
         "title": "Indie Goes Oracle Cards",
         "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
         "score": 4.8,
@@ -200,12 +192,12 @@
         "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
     },
     {
-        "title": "Digital Rupee by IndusInd Bank",
-        "icon": "https://play-lh.googleusercontent.com/WYg2Vb7lYJHfpO_gKwBiAkm8f20ZOE8MBIZPkYbWZrFW_n12bTmnaOIY4-1Jl-yF9HexbLbNKw9gsuGUsgxUMA",
-        "score": 4.0,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=in.sarvatra.erupeeINDUSIND&hl=en&gl=us",
-        "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
+        "title": "Indies' Lies",
+        "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
+        "score": 4.3,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yokagame.ProjectS&hl=en&gl=us",
+        "description": "Indies' Lies is a single-player roguelike deck building game...."
     },
     {
         "title": "IndiaMART - B2B Marketplace",
@@ -216,28 +208,20 @@
         "description": "Online Business App to find Verified Exporters, Manufacturers & Suppliers India..."
     },
     {
-        "title": "IndusDIRECT Corporate",
-        "icon": "https://play-lh.googleusercontent.com/umYsbr-uKSPVTMEGpAskIRhCFdG-iUKpMzIQIKyhrv0ILkgF2kDkrJkTPFGfGd6apRznwSWUBL3bHFVe8b0s",
-        "score": 4.0,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indusind.corporate&hl=en&gl=us",
-        "description": "Secure corporate banking on-the-go with cash and trade services...."
+        "title": "IndSMART IndianBank Mobile App",
+        "icon": "https://play-lh.googleusercontent.com/Ag3Ew6teoDxmaESUTGfZ2DedarASJuU2nVqIEoFTchszD9e8KTtDzxR8tvMVkWoRomCM_EERZfb7gpR9IklSqDk",
+        "score": 4.2,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.iexceed.ib.digitalbankingprod&hl=en&gl=us",
+        "description": "Next gen Digital Banking solution for all your Banking needs...."
     },
     {
-        "title": "Indus: Invest In India From AU",
-        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
-        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
-    },
-    {
-        "title": "Indie Jonas. Great Tomb Raider",
-        "icon": "https://play-lh.googleusercontent.com/_2qmPNxUJsThI4KuhuOhjxQli1Zse4kUbI3HAcGttqna3kl4QDnjZgrcHZGfg4Xyzi8DtmthgRGJ0FTRYMGLGsk",
+        "title": "indiagold Gold loans",
+        "icon": "https://play-lh.googleusercontent.com/hrQM7Yvyyd47Qb9Cu-T1m2dyC_g_8sp4vxrv7Bgs_CNrnQbd2UW2nr5BMeyeoAw5Fm3ORAWdEgiK7SOZ_2-q",
         "score": 4.5,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.Stannum.IndieJonasthegreattombraider&hl=en&gl=us",
-        "description": "Embark on a journey of discovery and adventure as archaeologist Indy...."
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=co.indiagold.gold.buy.loan&hl=en&gl=us",
+        "description": "Get Gold at just 10.20% interest. Get maximum cash..."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -296,12 +280,12 @@
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
-        "title": "Cool Black Launcher Theme",
-        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
-        "score": 4.5,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
-        "description": "Cool Black Launcher Theme to Make your phone stylish..."
+        "title": "ColabTools",
+        "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
+        "score": 4.0,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
+        "description": "ColabTools is an enterprise-level construction management app...."
     },
     {
         "title": "ToolBox Pro: All-in-One Tools",
@@ -312,11 +296,11 @@
         "description": "110+ tools in one app: calculators, converters, phone tests and more..."
     },
     {
-        "title": "ColabTools",
-        "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
-        "score": 4.0,
-        "installs": "5,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
-        "description": "ColabTools is an enterprise-level construction management app...."
+        "title": "Smart Tools - All In One",
+        "icon": "https://play-lh.googleusercontent.com/5ICBja3ydraF98pbG-E08J2Yi8n42ysnA_gmmNd_0K_rOH3HeVmhSQ0c9JgLkqASv4nANubZUaB0XBZnT6p2",
+        "score": 4.5,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.pcmehanik.smarttoolbox&hl=en&gl=us",
+        "description": "Useful kit of tools with carpenter, construction, measure tools and utilities...."
     }
 ]
