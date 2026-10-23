@@ -1,5 +1,13 @@
 [
     {
+        "title": "Todoist: To Do List & Calendar",
+        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
+        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
+    },
+    {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.6,
@@ -48,14 +56,6 @@
         "description": "Create content, explore ideas, and get answers with Copilot...."
     },
     {
-        "title": "Todoist: To Do List & Calendar",
-        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
-        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
-    },
-    {
         "title": "Adobe Acrobat Reader: Edit PDF",
         "icon": "https://play-lh.googleusercontent.com/VIohTA3wyJgKJ-SZzoJeYuykxyVFCbSmXFAjefIGQybY57FX44VCHyVa3CTOZROzWLbMc-VFwL4CEDj47LeRpM0",
         "score": 4.5,
@@ -72,12 +72,12 @@
         "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
-        "title": "Notability: AI & PDF Notes",
-        "icon": "https://play-lh.googleusercontent.com/Ts2cHsPbZptRZkFk2drCEIbwLfeBRA6cVKPtu7XSzI0KWX5iMysQBTuxci2ieHOuSNmY-xX_-Qwpkds3JwY6-A",
-        "score": 4.3,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.gingerlabs.notability&hl=en&gl=us",
-        "description": "A digital notebook: take notes with AI, annotate PDFs, handwrite study notes...."
+        "title": "Microsoft To Do: Lists & Tasks",
+        "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us",
+        "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
     },
     {
         "title": "All Tools: 70+ Utilities",
@@ -128,20 +128,20 @@
         "description": "Useful everyday tools and utilities, all in one simple app..."
     },
     {
+        "title": "IP Tools: Network Utilities",
+        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
+        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
+    },
+    {
         "title": "OmniTools - All-in-One Toolkit",
         "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
         "score": 4.7,
         "installs": "50,000+",
         "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
-    },
-    {
-        "title": "35 Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/HngcKuKZ9JbbdQ8oRGYSl1CViQjNF_g5k3cDFN0IS1ZQ8_nJowPGLXq_1r-uySWb8qTzpuQiMAk_p6idi5iQ",
-        "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=com.mudassirkhan.dailytoolkit&hl=en&gl=us",
-        "description": "30+ Essential Daily Tools in One App – QR, Barcode, BMI, Notes & More..."
     },
     {
         "title": "All in one Tools -Utility",
@@ -152,12 +152,12 @@
         "description": "All-in-one smart tools app for  games, utilities, calculators & converters,etc...."
     },
     {
-        "title": "IP Tools: Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
-        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
+        "title": "Toolbox: Private Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/16uIqD9PFUBTg1_SDHlkSpDTwpjjSX_7TY3rJHwfYa-vRF6NHPEcwxTQ1w50QUbRjjZeT9ZhV4ytiXuwea-D",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.onstack.toolbox&hl=en&gl=us",
+        "description": "USD to PKR, petrol price, khata ledger, to do list, PDF & QR tools, offline..."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
@@ -256,20 +256,20 @@
         "description": "Super fast and unlimited VPN proxy. Secure proxy for Chat, Video and Gaming...."
     },
     {
+        "title": "Cool Browser",
+        "icon": "https://play-lh.googleusercontent.com/yHXDHMCYadwo1YnKq023296HQoWVIZYTtxGfa-zqDmu1k_nv0tSdNNxq_LgQLpQp9lvoER-6fVbDg_VmU19zUg",
+        "score": 4.2,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.coolpad.android.browser&hl=en&gl=us",
+        "description": "Browse faster* safer with cool..."
+    },
+    {
         "title": "Navy COOL",
         "icon": "https://play-lh.googleusercontent.com/dQ0Fzr5BW2sNl4oF_GvR1SmcuKC62VKy-gxTTUHYoWdwoIKrdDDpKhIhKO1uiH_-pR1uosKS5vG-GarTPM42tJs",
         "score": 3.5,
         "installs": "50,000+",
         "url": "https://play.google.com/store/apps/details?id=com.tracen.navycool&hl=en&gl=us",
         "description": "Top tools from Navy COOL, the Navy's Credentialing Opportunities On-Line website..."
-    },
-    {
-        "title": "All Tools: 70+ Utilities",
-        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
-        "score": 4.6,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
-        "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
         "title": "Toolive - Productivity Tools",
@@ -280,12 +280,12 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
-        "title": "Ref Tools",
-        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
-        "score": 4.7,
+        "title": "All Tools: 70+ Utilities",
+        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
+        "score": 4.6,
         "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
-        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
+        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
+        "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
         "title": "ToolBox Pro: All-in-One Tools",
@@ -296,19 +296,19 @@
         "description": "110+ tools in one app: calculators, converters, phone tests and more..."
     },
     {
+        "title": "Ref Tools",
+        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
+        "score": 4.7,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
+        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
+    },
+    {
         "title": "ColabTools",
         "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
         "score": 4.0,
         "installs": "5,000+",
         "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
         "description": "ColabTools is an enterprise-level construction management app...."
-    },
-    {
-        "title": "Smart Tools - All In One",
-        "icon": "https://play-lh.googleusercontent.com/5ICBja3ydraF98pbG-E08J2Yi8n42ysnA_gmmNd_0K_rOH3HeVmhSQ0c9JgLkqASv4nANubZUaB0XBZnT6p2",
-        "score": 4.5,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.pcmehanik.smarttoolbox&hl=en&gl=us",
-        "description": "Useful kit of tools with carpenter, construction, measure tools and utilities...."
     }
 ]
