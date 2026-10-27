@@ -1,13 +1,5 @@
 [
     {
-        "title": "Todoist: To Do List & Calendar",
-        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
-        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
-    },
-    {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.6,
@@ -40,14 +32,6 @@
         "description": "Chat to start writing, planning, creating, learning and more with Google AI..."
     },
     {
-        "title": "Google Keep - Notes and lists",
-        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
-        "score": 4.7,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
-        "description": "Google Keep..."
-    },
-    {
         "title": "Microsoft Copilot",
         "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
         "score": 4.5,
@@ -56,12 +40,28 @@
         "description": "Create content, explore ideas, and get answers with Copilot...."
     },
     {
+        "title": "Google Keep - Notes and lists",
+        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
+        "score": 4.7,
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
+        "description": "Google Keep..."
+    },
+    {
         "title": "Daily Planner, To Do List",
         "icon": "https://play-lh.googleusercontent.com/US5ULGaYAMGQDMT6Q3gl8sMKeuNNk891yuJJdL4vDUcaNwzHieGKZn5hRcw31Sh0uunDBbCpFW9j9yS5Urs6GXo",
         "score": 4.6,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.planner.journal&hl=en&gl=us",
         "description": "Daily Planner, To Do List, Journal, Diary, ADHD & Schedule Planner Templates...."
+    },
+    {
+        "title": "Todoist: To Do List & Calendar",
+        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
+        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
     },
     {
         "title": "Adobe Acrobat Reader: Edit PDF",
@@ -152,12 +152,12 @@
         "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
     },
     {
-        "title": "IP Tools: Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
-        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
+        "title": "Flex Utility Premium",
+        "icon": "https://play-lh.googleusercontent.com/QSiFVkAisdK_Qz2U4gReFvH6udawk_GBHBwqhU_AaBg-EFVPtf8KViKqKsnGPIElSxzb7-ZNPX8tMJNyM0qP",
+        "score": 4.7,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=us.flexswag.flexutilitypremium&hl=en&gl=us",
+        "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
@@ -248,20 +248,20 @@
         "description": "Read, write, copy & analyze NFC - Amiibo, OpenPrintTag, NFC Safe, Tap Counter..."
     },
     {
-        "title": "Cool VPN Pro: Secure VPN Proxy",
-        "icon": "https://play-lh.googleusercontent.com/CWnf2Hi0NobgV37Z1_mNqaKPLgUArKjHbh99MFt5goPR1BPA64EcgIPPeRtDvTOmmSliUVEaQdb1VnA6f1D2",
-        "score": 4.6,
-        "installs": "50,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=cc.coolline.client.pro&hl=en&gl=us",
-        "description": "Super fast and unlimited VPN proxy. Secure proxy for Chat, Video and Gaming...."
-    },
-    {
         "title": "Cool Browser",
         "icon": "https://play-lh.googleusercontent.com/yHXDHMCYadwo1YnKq023296HQoWVIZYTtxGfa-zqDmu1k_nv0tSdNNxq_LgQLpQp9lvoER-6fVbDg_VmU19zUg",
         "score": 4.2,
         "installs": "500,000+",
         "url": "https://play.google.com/store/apps/details?id=com.coolpad.android.browser&hl=en&gl=us",
         "description": "Browse faster* safer with cool..."
+    },
+    {
+        "title": "Cool VPN Pro: Secure VPN Proxy",
+        "icon": "https://play-lh.googleusercontent.com/CWnf2Hi0NobgV37Z1_mNqaKPLgUArKjHbh99MFt5goPR1BPA64EcgIPPeRtDvTOmmSliUVEaQdb1VnA6f1D2",
+        "score": 4.6,
+        "installs": "50,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=cc.coolline.client.pro&hl=en&gl=us",
+        "description": "Super fast and unlimited VPN proxy. Secure proxy for Chat, Video and Gaming...."
     },
     {
         "title": "Navy COOL",
@@ -288,20 +288,20 @@
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
-        "title": "Ref Tools",
-        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
-        "score": 4.7,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
-        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
-    },
-    {
         "title": "Toolive - Productivity Tools",
         "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
         "score": 3.9,
         "installs": "10,000+",
         "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
+    },
+    {
+        "title": "Ref Tools",
+        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
+        "score": 4.7,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
+        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
     },
     {
         "title": "ColabTools",
