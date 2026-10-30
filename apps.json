@@ -1,13 +1,5 @@
 [
     {
-        "title": "Todoist: To Do List & Calendar",
-        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
-        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
-    },
-    {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.6,
@@ -56,6 +48,14 @@
         "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
+        "title": "Todoist: To Do List & Calendar",
+        "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us",
+        "description": "Organize tasks, capture ideas by voice, and keep your teamwork on the same page...."
+    },
+    {
         "title": "Adobe Acrobat Reader: Edit PDF",
         "icon": "https://play-lh.googleusercontent.com/VIohTA3wyJgKJ-SZzoJeYuykxyVFCbSmXFAjefIGQybY57FX44VCHyVa3CTOZROzWLbMc-VFwL4CEDj47LeRpM0",
         "score": 4.5,
@@ -82,7 +82,7 @@
     {
         "title": "All Tools: 70+ Utilities",
         "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
-        "score": 4.6,
+        "score": 4.5,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
@@ -112,30 +112,6 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
-        "title": "Tooly Toolbox All Tools In One",
-        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
-        "score": 4.3,
-        "installs": "500,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
-        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
-    },
-    {
-        "title": "IP Tools: Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
-        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
-    },
-    {
-        "title": "Flex Utility Premium",
-        "icon": "https://play-lh.googleusercontent.com/QSiFVkAisdK_Qz2U4gReFvH6udawk_GBHBwqhU_AaBg-EFVPtf8KViKqKsnGPIElSxzb7-ZNPX8tMJNyM0qP",
-        "score": 4.7,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=us.flexswag.flexutilitypremium&hl=en&gl=us",
-        "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
-    },
-    {
         "title": "QuickTools: Utility Tools",
         "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
         "score": 4.0,
@@ -152,20 +128,36 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
-        "title": "PingTools Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/_I8Tw-au_PA211c4ScOei2aONSUHDIHUnW9yCt41S5-pSwhpI8isXIYwopJ3brWySqoPVu8OaM_7cOA6QKWjhQ",
-        "score": 4.7,
-        "installs": "5,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools&hl=en&gl=us",
-        "description": "PingTools - a simple but powerful set of network utilities...."
+        "title": "Tooly Toolbox All Tools In One",
+        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
+        "score": 4.3,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
+        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
-        "title": "IndusInd Bank: Savings A/C, FD",
-        "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.2,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
-        "description": "Savings Account, Fixed Deposit (FD), Zero Balance savings account..."
+        "title": "All Smart Tools - Daily Uses",
+        "icon": "https://play-lh.googleusercontent.com/QF48zb-hS1I41jeluuOMTuChhDzHHbqaD4KiEZHRxbVlVMndnDqVVUOhhwotCAFaVwNgQPXFtbAHKz2S3rFKeA",
+        "score": 3.9,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.sm.allsmarttools&hl=en&gl=us",
+        "description": "125+ daily utility tools: converter, scanner, calculator & more..."
+    },
+    {
+        "title": "Multi Tools: Utility Toolbox",
+        "icon": "https://play-lh.googleusercontent.com/aC1ee0zKLBp2iHVnOoGZ0mjHQrCLr-PmzgWftV-FWOJYVxQeQ2jTC-to6r2cpItUhyCucPqZ8cyjlmEvnYAveZM",
+        "score": 4.0,
+        "installs": "10+",
+        "url": "https://play.google.com/store/apps/details?id=yan.multitools&hl=en&gl=us",
+        "description": "50 offline tools: calculator, converter, QR scanner, compass, flashlight, NFC..."
+    },
+    {
+        "title": "Flex Utility Premium",
+        "icon": "https://play-lh.googleusercontent.com/QSiFVkAisdK_Qz2U4gReFvH6udawk_GBHBwqhU_AaBg-EFVPtf8KViKqKsnGPIElSxzb7-ZNPX8tMJNyM0qP",
+        "score": 4.7,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=us.flexswag.flexutilitypremium&hl=en&gl=us",
+        "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
     },
     {
         "title": "INDIE For Business",
@@ -176,20 +168,12 @@
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
     },
     {
-        "title": "Indies' Lies",
-        "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
+        "title": "Indie Shuffle - New Songs",
+        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
         "score": 4.3,
-        "installs": "500,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.yokagame.ProjectS&hl=en&gl=us",
-        "description": "Indies' Lies is a single-player roguelike deck building game...."
-    },
-    {
-        "title": "Indie Goes Oracle Cards",
-        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
-        "score": 4.8,
         "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
-        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
+        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
+        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
     },
     {
         "title": "IndusInd Insurance",
@@ -200,6 +184,22 @@
         "description": "IndusInd Insurance App (formerly Reliance Self-i) by IndusInd General Insurance..."
     },
     {
+        "title": "Indie Goes Oracle Cards",
+        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
+        "score": 4.8,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
+        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
+    },
+    {
+        "title": "Indies' Lies",
+        "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
+        "score": 4.3,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yokagame.ProjectS&hl=en&gl=us",
+        "description": "Indies' Lies is a single-player roguelike deck building game...."
+    },
+    {
         "title": "Digital Rupee by IndusInd Bank",
         "icon": "https://play-lh.googleusercontent.com/WYg2Vb7lYJHfpO_gKwBiAkm8f20ZOE8MBIZPkYbWZrFW_n12bTmnaOIY4-1Jl-yF9HexbLbNKw9gsuGUsgxUMA",
         "score": 4.0,
@@ -208,20 +208,12 @@
         "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
     },
     {
-        "title": "IndusDIRECT Corporate",
-        "icon": "https://play-lh.googleusercontent.com/umYsbr-uKSPVTMEGpAskIRhCFdG-iUKpMzIQIKyhrv0ILkgF2kDkrJkTPFGfGd6apRznwSWUBL3bHFVe8b0s",
-        "score": 4.0,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indusind.corporate&hl=en&gl=us",
-        "description": "Secure corporate banking on-the-go with cash and trade services...."
-    },
-    {
-        "title": "IndiaMART - B2B Marketplace",
-        "icon": "https://play-lh.googleusercontent.com/l1P88tVq00LyQygVVGG__i91a0wBweS1ZxLJVvDFBIWwwUALKbImr5XjgfS3RsZy9LAP-MvUctTn3XY1ioSGabg",
-        "score": 4.8,
+        "title": "IndSMART IndianBank Mobile App",
+        "icon": "https://play-lh.googleusercontent.com/Ag3Ew6teoDxmaESUTGfZ2DedarASJuU2nVqIEoFTchszD9e8KTtDzxR8tvMVkWoRomCM_EERZfb7gpR9IklSqDk",
+        "score": 4.2,
         "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indiamart.m&hl=en&gl=us",
-        "description": "Online Business App to find Verified Exporters, Manufacturers & Suppliers India..."
+        "url": "https://play.google.com/store/apps/details?id=com.iexceed.ib.digitalbankingprod&hl=en&gl=us",
+        "description": "Next gen Digital Banking solution for all your Banking needs...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -266,10 +258,18 @@
     {
         "title": "All Tools: 70+ Utilities",
         "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
-        "score": 4.6,
+        "score": 4.5,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
+    },
+    {
+        "title": "ColabTools",
+        "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
+        "score": 4.0,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
+        "description": "ColabTools is an enterprise-level construction management app...."
     },
     {
         "title": "Toolive - Productivity Tools",
@@ -294,13 +294,5 @@
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
         "description": "The all-in-one app for air conditioning and refrigeration technicians...."
-    },
-    {
-        "title": "SuperCool",
-        "icon": "https://play-lh.googleusercontent.com/3H5lfWi-_zvbykzt7gZe3WSicgSUdurYGiEtn_tVeMUS438lDv_tSlb3wPSsA44RLdiOZ3sCHc6emtZxzwvS5yQ",
-        "score": 3.9,
-        "installs": "50,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.supercool.ai&hl=en&gl=us",
-        "description": "Your AI assistant, reimagined for mobile. Chat, create, and execute AI tools..."
     }
 ]
