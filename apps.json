@@ -128,12 +128,28 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
+        "title": "IP Tools: Network Utilities",
+        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
+        "score": 4.6,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
+        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
+    },
+    {
         "title": "Tooly Toolbox All Tools In One",
         "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
         "score": 4.3,
         "installs": "500,000+",
         "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
         "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
+    },
+    {
+        "title": "Omni Tools – All in One Tools",
+        "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
+        "score": 4.0,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.tss.omnitools&hl=en&gl=us",
+        "description": "61 Free Tools: Scanner, Calculator, PDF, Finance & Health Suite. 100% Offline...."
     },
     {
         "title": "All Smart Tools - Daily Uses",
@@ -144,36 +160,12 @@
         "description": "125+ daily utility tools: converter, scanner, calculator & more..."
     },
     {
-        "title": "Multi Tools: Utility Toolbox",
-        "icon": "https://play-lh.googleusercontent.com/aC1ee0zKLBp2iHVnOoGZ0mjHQrCLr-PmzgWftV-FWOJYVxQeQ2jTC-to6r2cpItUhyCucPqZ8cyjlmEvnYAveZM",
-        "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=yan.multitools&hl=en&gl=us",
-        "description": "50 offline tools: calculator, converter, QR scanner, compass, flashlight, NFC..."
-    },
-    {
-        "title": "Flex Utility Premium",
-        "icon": "https://play-lh.googleusercontent.com/QSiFVkAisdK_Qz2U4gReFvH6udawk_GBHBwqhU_AaBg-EFVPtf8KViKqKsnGPIElSxzb7-ZNPX8tMJNyM0qP",
-        "score": 4.7,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=us.flexswag.flexutilitypremium&hl=en&gl=us",
-        "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
-    },
-    {
         "title": "INDIE For Business",
         "icon": "https://play-lh.googleusercontent.com/BbUxfzC7hExI-CHfYkJgfrbnN6bJKPgsxZv2Lrjtvi90HX8T1FoJU6wbd98DmPdTldwzYKgIanu3rC4NzB04DS4",
         "score": 4.0,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indiebiz&hl=en&gl=us",
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
-    },
-    {
-        "title": "Indie Shuffle - New Songs",
-        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
-        "score": 4.3,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
-        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
     },
     {
         "title": "IndusInd Insurance",
@@ -184,12 +176,12 @@
         "description": "IndusInd Insurance App (formerly Reliance Self-i) by IndusInd General Insurance..."
     },
     {
-        "title": "Indie Goes Oracle Cards",
-        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
-        "score": 4.8,
+        "title": "Indie Shuffle - New Songs",
+        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
+        "score": 4.3,
         "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
-        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
+        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
+        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
     },
     {
         "title": "Indies' Lies",
@@ -208,12 +200,28 @@
         "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
     },
     {
+        "title": "Indie Goes Oracle Cards",
+        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
+        "score": 4.8,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
+        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
+    },
+    {
         "title": "IndSMART IndianBank Mobile App",
         "icon": "https://play-lh.googleusercontent.com/Ag3Ew6teoDxmaESUTGfZ2DedarASJuU2nVqIEoFTchszD9e8KTtDzxR8tvMVkWoRomCM_EERZfb7gpR9IklSqDk",
         "score": 4.2,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.iexceed.ib.digitalbankingprod&hl=en&gl=us",
         "description": "Next gen Digital Banking solution for all your Banking needs...."
+    },
+    {
+        "title": "IndusDIRECT Corporate",
+        "icon": "https://play-lh.googleusercontent.com/umYsbr-uKSPVTMEGpAskIRhCFdG-iUKpMzIQIKyhrv0ILkgF2kDkrJkTPFGfGd6apRznwSWUBL3bHFVe8b0s",
+        "score": 4.0,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.indusind.corporate&hl=en&gl=us",
+        "description": "Secure corporate banking on-the-go with cash and trade services...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -272,6 +280,14 @@
         "description": "ColabTools is an enterprise-level construction management app...."
     },
     {
+        "title": "Ref Tools",
+        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
+        "score": 4.7,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
+        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
+    },
+    {
         "title": "Toolive - Productivity Tools",
         "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
         "score": 3.9,
@@ -280,19 +296,11 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
-        "title": "ToolBox Pro: All-in-One Tools",
-        "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
-        "score": 4.6,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.toolboxpro.app&hl=en&gl=us",
-        "description": "110+ tools in one app: calculators, converters, phone tests and more..."
-    },
-    {
-        "title": "Ref Tools",
-        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
-        "score": 4.7,
+        "title": "Smart Tools - All In One",
+        "icon": "https://play-lh.googleusercontent.com/5ICBja3ydraF98pbG-E08J2Yi8n42ysnA_gmmNd_0K_rOH3HeVmhSQ0c9JgLkqASv4nANubZUaB0XBZnT6p2",
+        "score": 4.5,
         "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
-        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
+        "url": "https://play.google.com/store/apps/details?id=com.pcmehanik.smarttoolbox&hl=en&gl=us",
+        "description": "Useful kit of tools with carpenter, construction, measure tools and utilities...."
     }
 ]
