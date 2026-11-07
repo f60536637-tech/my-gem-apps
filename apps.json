@@ -26,7 +26,7 @@
     {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.6,
+        "score": 4.7,
         "installs": "10,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
         "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
@@ -56,6 +56,14 @@
         "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
+        "title": "Daily Planner, To Do List",
+        "icon": "https://play-lh.googleusercontent.com/US5ULGaYAMGQDMT6Q3gl8sMKeuNNk891yuJJdL4vDUcaNwzHieGKZn5hRcw31Sh0uunDBbCpFW9j9yS5Urs6GXo",
+        "score": 4.6,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.planner.journal&hl=en&gl=us",
+        "description": "Daily Planner, To Do List, Journal, Diary, ADHD & Schedule Planner Templates...."
+    },
+    {
         "title": "Todoist: To Do List & Calendar",
         "icon": "https://play-lh.googleusercontent.com/03uYCmB2qWmmr-rIL8X_gj20wdIxLPW3bmqf1ZSNlwf_ZjuQYGnNnOB-8ig2CBzwqyf5meCgOgUEzxvC1QY6rg",
         "score": 4.6,
@@ -72,14 +80,6 @@
         "description": "Edit and sign your PDFs quickly. Do it all in one app...."
     },
     {
-        "title": "Microsoft To Do: Lists & Tasks",
-        "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us",
-        "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
-    },
-    {
         "title": "All Tools: 70+ Utilities",
         "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
         "score": 4.5,
@@ -88,20 +88,20 @@
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
+        "title": "Toolbox - Everyday Utilities",
+        "icon": "https://play-lh.googleusercontent.com/AnPnj8OL90J6Td9EXjpIhBLD2GchONn1VQN8Y8uXm-mWAvVeC5BN-o5rDXE2g7cZWeBMEPgRcOs1eEJVgo-sh8A",
+        "score": 4.8,
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.vedtechnologies.toolbox&hl=en&gl=us",
+        "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
+    },
+    {
         "title": "Toolbox: 180+ Tools & Utility",
         "icon": "https://play-lh.googleusercontent.com/7Autiyz7PDdjI91XyQr7S5FZlzUYOvoUwqhQr2iRZIysJuI82mAJD_GOd3OEaoxvmb1Z0BWNH5c2qYarhCnvoOo",
         "score": 4.0,
         "installs": "10+",
         "url": "https://play.google.com/store/apps/details?id=com.toolbox.utilities&hl=en&gl=us",
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
-    },
-    {
-        "title": "Toolbox - Everyday Utilities",
-        "icon": "https://play-lh.googleusercontent.com/AnPnj8OL90J6Td9EXjpIhBLD2GchONn1VQN8Y8uXm-mWAvVeC5BN-o5rDXE2g7cZWeBMEPgRcOs1eEJVgo-sh8A",
-        "score": 5.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.vedtechnologies.toolbox&hl=en&gl=us",
-        "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
     },
     {
         "title": "PDF Utility Tools & Converter",
@@ -128,20 +128,20 @@
         "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
-        "title": "Utility Toolbox",
-        "icon": "https://play-lh.googleusercontent.com/kjdzJLKZzqDlhyt7VxeY3Iffjtg8ubR9aoE9Gyh7gtlfY1xHvotreDWS18hIU00V-HjmbrHuGbd7usjAVNcwWQ",
-        "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=com.utilitytoolbox.smarttools&hl=en&gl=us",
-        "description": "All-in-one AI, PDF, OCR, QR, image, converter and everyday utility tools...."
-    },
-    {
         "title": "All Smart Tools - Daily Uses",
         "icon": "https://play-lh.googleusercontent.com/QF48zb-hS1I41jeluuOMTuChhDzHHbqaD4KiEZHRxbVlVMndnDqVVUOhhwotCAFaVwNgQPXFtbAHKz2S3rFKeA",
         "score": 3.9,
         "installs": "50,000+",
         "url": "https://play.google.com/store/apps/details?id=com.sm.allsmarttools&hl=en&gl=us",
         "description": "125+ daily utility tools: converter, scanner, calculator & more..."
+    },
+    {
+        "title": "Utility Toolbox",
+        "icon": "https://play-lh.googleusercontent.com/kjdzJLKZzqDlhyt7VxeY3Iffjtg8ubR9aoE9Gyh7gtlfY1xHvotreDWS18hIU00V-HjmbrHuGbd7usjAVNcwWQ",
+        "score": 4.0,
+        "installs": "10+",
+        "url": "https://play.google.com/store/apps/details?id=com.utilitytoolbox.smarttools&hl=en&gl=us",
+        "description": "All-in-one AI, PDF, OCR, QR, image, converter and everyday utility tools...."
     },
     {
         "title": "QuickTools: Utility Tools",
@@ -232,14 +232,6 @@
         "description": "Chat in every Indian language. Your AI assistant, built for India...."
     },
     {
-        "title": "Indus: Invest In India From AU",
-        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
-        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
-    },
-    {
         "title": "NFC.cool Tools Reader & Writer",
         "icon": "https://play-lh.googleusercontent.com/J89VeGBr5YzG1R70nOKbSb9JtNpedIH-v8XWjmmq4bg_faSYysAD6AUsB-4GFIRS24BsseSwKvsHAw0VLY2g",
         "score": 3.9,
@@ -298,7 +290,7 @@
     {
         "title": "SuperCool",
         "icon": "https://play-lh.googleusercontent.com/3H5lfWi-_zvbykzt7gZe3WSicgSUdurYGiEtn_tVeMUS438lDv_tSlb3wPSsA44RLdiOZ3sCHc6emtZxzwvS5yQ",
-        "score": 3.9,
+        "score": 3.8,
         "installs": "50,000+",
         "url": "https://play.google.com/store/apps/details?id=com.supercool.ai&hl=en&gl=us",
         "description": "Your AI assistant, reimagined for mobile. Chat, create, and execute AI tools..."
