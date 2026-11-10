@@ -1,11 +1,11 @@
 [
     {
-        "title": "Google Calendar",
-        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.7,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
-        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
+        "title": "Forest: Stay Focused",
+        "icon": "https://play-lh.googleusercontent.com/l879lJr_CUUdv98GPqVuvLd-C7eG9A3QL4GngHwQ16ziR8TMvRJxSSqamDKNeu7YYNkP_LR5-XzB9Uwu4J2D",
+        "score": 4.3,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=us",
+        "description": "Pomodoro study timer to beat phone addiction, manage ADHD & stay focused...."
     },
     {
         "title": "ChatGPT",
@@ -26,18 +26,26 @@
     {
         "title": "Microsoft Copilot",
         "icon": "https://play-lh.googleusercontent.com/LO0qJeIk4uKo6HJB5fkMpipB9x4BedNr0YegnCJKOxsX8SNZIoY-NC8-KL-cLQyUgmmKFyZRa0cdyaNkDsyBveg",
-        "score": 4.5,
+        "score": 4.4,
         "installs": "1,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
         "description": "Create content, explore ideas, and get answers with Copilot...."
     },
     {
-        "title": "Google Keep - Notes and lists",
-        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
+        "title": "Google Calendar",
+        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
         "score": 4.7,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
-        "description": "Google Keep..."
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
+        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
+    },
+    {
+        "title": "Google Drive",
+        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
+        "score": 4.3,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
+        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
     },
     {
         "title": "Todoist: To Do List & Calendar",
@@ -64,25 +72,17 @@
         "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
     },
     {
-        "title": "Grok Bot",
-        "icon": "https://play-lh.googleusercontent.com/yQblC3CCrdtX-XRHUKXsKwEGGFOPTwBWkKr-XeBZiouALcVDdh6liKbxNstwllkyUUpb_0EkzkYtDI1mVx8Q",
+        "title": "Google Keep - Notes and lists",
+        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
         "score": 4.7,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot&hl=en&gl=us",
-        "description": "AI agents that do real work. Easy setup, just explain what you want automated...."
-    },
-    {
-        "title": "Google Drive",
-        "icon": "https://play-lh.googleusercontent.com/chc-Fx3Qi3BisTZw1aOteYK_XkMHUiXKRbX2Hc8shyFI8pYt7DcyUPzVwLGJKIeKCKDD6nFVhEtUrIaEyzcnmA",
-        "score": 4.3,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us",
-        "description": "Store, access, and share securely with Google Drive, part of Google Workspace...."
+        "installs": "1,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
+        "description": "Google Keep..."
     },
     {
         "title": "All Tools: 70+ Utilities",
         "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
-        "score": 4.5,
+        "score": 4.6,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
@@ -120,20 +120,20 @@
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
     },
     {
-        "title": "OmniTools - All-in-One Toolkit",
-        "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
-        "score": 4.7,
-        "installs": "50,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
-        "description": "The Swiss-Army app for your phone - fast & offline-ready...."
-    },
-    {
         "title": "Tooly Toolbox All Tools In One",
         "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
         "score": 4.3,
         "installs": "500,000+",
         "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
         "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
+    },
+    {
+        "title": "OmniTools - All-in-One Toolkit",
+        "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
+        "score": 4.7,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
+        "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
         "title": "All Smart Tools - Daily Uses",
@@ -152,12 +152,12 @@
         "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
     },
     {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "title": "Omni Tools – All in One Tools",
+        "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
         "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.tss.omnitools&hl=en&gl=us",
+        "description": "61 Free Tools: Scanner, Calculator, PDF, Finance & Health Suite. 100% Offline...."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
@@ -216,20 +216,20 @@
         "description": "Secure corporate banking on-the-go with cash and trade services...."
     },
     {
+        "title": "Indus: Invest In India From AU",
+        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
+        "score": 4.0,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
+        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
+    },
+    {
         "title": "Indus by Sarvam",
         "icon": "https://play-lh.googleusercontent.com/LSzd-wCtujxb92EbESkysihlNH5AtqSqvb_W-a9-5WHXlhADlUc7RRXoWCc3Qfy6kczfbLEMR7uYS1miwBiArg",
         "score": 4.7,
         "installs": "100,000+",
         "url": "https://play.google.com/store/apps/details?id=ai.sarvam.indus&hl=en&gl=us",
         "description": "Chat in every Indian language. Your AI assistant, built for India...."
-    },
-    {
-        "title": "Indus: Invest In India From AU",
-        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
-        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -256,12 +256,12 @@
         "description": "Top tools from Navy COOL, the Navy's Credentialing Opportunities On-Line website..."
     },
     {
-        "title": "All Tools: 70+ Utilities",
-        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
+        "title": "Cool Black Launcher Theme",
+        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
         "score": 4.5,
         "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
-        "description": "70+ utility tools in one app. Works offline and is decentralised...."
+        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
+        "description": "Cool Black Launcher Theme to Make your phone stylish..."
     },
     {
         "title": "ColabTools",
@@ -272,12 +272,12 @@
         "description": "ColabTools is an enterprise-level construction management app...."
     },
     {
-        "title": "Cool Black Launcher Theme",
-        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
-        "score": 4.5,
+        "title": "All Tools: 70+ Utilities",
+        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
+        "score": 4.6,
         "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
-        "description": "Cool Black Launcher Theme to Make your phone stylish..."
+        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
+        "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
         "title": "ToolBox Pro: All-in-One Tools",
@@ -288,12 +288,12 @@
         "description": "110+ tools in one app: calculators, converters, phone tests and more..."
     },
     {
-        "title": "SuperCool",
-        "icon": "https://play-lh.googleusercontent.com/3H5lfWi-_zvbykzt7gZe3WSicgSUdurYGiEtn_tVeMUS438lDv_tSlb3wPSsA44RLdiOZ3sCHc6emtZxzwvS5yQ",
-        "score": 3.9,
-        "installs": "50,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.supercool.ai&hl=en&gl=us",
-        "description": "Your AI assistant, reimagined for mobile. Chat, create, and execute AI tools..."
+        "title": "Tooly Toolbox All Tools In One",
+        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
+        "score": 4.3,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
+        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
         "title": "Toolive - Productivity Tools",
@@ -304,11 +304,11 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
-        "title": "Goods: Mobile Repair Tools",
-        "icon": "https://play-lh.googleusercontent.com/CZVT1_4wclcSSdeV5IQJtQ0HPyu5RS2hBsDq7adA9b4i5E-2PSZQMk43r9_qQch67LDoFg7-SSRKfqdgVd8n3A",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=tn.goods.app&hl=en&gl=us",
-        "description": "Affordable Mobile Repair Tools and Equipment for Professionals and DIY Users..."
+        "title": "SuperCool",
+        "icon": "https://play-lh.googleusercontent.com/3H5lfWi-_zvbykzt7gZe3WSicgSUdurYGiEtn_tVeMUS438lDv_tSlb3wPSsA44RLdiOZ3sCHc6emtZxzwvS5yQ",
+        "score": 3.9,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.supercool.ai&hl=en&gl=us",
+        "description": "Your AI assistant, reimagined for mobile. Chat, create, and execute AI tools..."
     }
 ]
