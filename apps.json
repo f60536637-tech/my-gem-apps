@@ -1,5 +1,13 @@
 [
     {
+        "title": "Google Calendar",
+        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
+        "score": 4.7,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
+        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
+    },
+    {
         "title": "Forest: Stay Focused",
         "icon": "https://play-lh.googleusercontent.com/l879lJr_CUUdv98GPqVuvLd-C7eG9A3QL4GngHwQ16ziR8TMvRJxSSqamDKNeu7YYNkP_LR5-XzB9Uwu4J2D",
         "score": 4.3,
@@ -29,15 +37,7 @@
         "score": 4.4,
         "installs": "1,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
-        "description": "Create content, explore ideas, and get answers with Copilot...."
-    },
-    {
-        "title": "Google Calendar",
-        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.7,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
-        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
+        "description": "Work smarter with intelligence for writing, planning, organizing & productivity...."
     },
     {
         "title": "Google Drive",
@@ -64,6 +64,14 @@
         "description": "Edit and sign your PDFs quickly. Do it all in one app...."
     },
     {
+        "title": "Grok Bot",
+        "icon": "https://play-lh.googleusercontent.com/yQblC3CCrdtX-XRHUKXsKwEGGFOPTwBWkKr-XeBZiouALcVDdh6liKbxNstwllkyUUpb_0EkzkYtDI1mVx8Q",
+        "score": 4.7,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot&hl=en&gl=us",
+        "description": "AI agents that do real work. Easy setup, just explain what you want automated...."
+    },
+    {
         "title": "Microsoft To Do: Lists & Tasks",
         "icon": "https://play-lh.googleusercontent.com/0fRzm2MnlTBFTzOc2nnQQvnsW4r3r1m4gN1oo33JDoNejOkgg1iy0BuUNrX81wGd6RRPb-Epwa3w_1jvToiU",
         "score": 4.6,
@@ -72,20 +80,20 @@
         "description": "Increase productivity! Make a daily to do list, create a reminder & share notes!..."
     },
     {
-        "title": "Google Keep - Notes and lists",
-        "icon": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w",
-        "score": 4.7,
-        "installs": "1,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us",
-        "description": "Google Keep..."
-    },
-    {
         "title": "All Tools: 70+ Utilities",
         "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
         "score": 4.6,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
+    },
+    {
+        "title": "PDF Utility Tools & Converter",
+        "icon": "https://play-lh.googleusercontent.com/SXWeMjtwxj39ssoL2Gy2gJOYNNVDTU1W-6m__jdgkThwPaRw4DP3ANCNF44eucIXLbDg7rCrzkFIYkFVY7aq",
+        "score": 4.0,
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.premium.pdfutility&hl=en&gl=us",
+        "description": "PDF Utility Tools - Converter - Images To PDF , Merge, Reorder, Compress, No Ads..."
     },
     {
         "title": "Toolbox - Everyday Utilities",
@@ -102,14 +110,6 @@
         "installs": "10+",
         "url": "https://play.google.com/store/apps/details?id=com.mahim.utilityhub&hl=en&gl=us",
         "description": "All-in-one utility app for expenses, bills, tasks, calculations, and daily tools..."
-    },
-    {
-        "title": "PDF Utility Tools & Converter",
-        "icon": "https://play-lh.googleusercontent.com/SXWeMjtwxj39ssoL2Gy2gJOYNNVDTU1W-6m__jdgkThwPaRw4DP3ANCNF44eucIXLbDg7rCrzkFIYkFVY7aq",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.premium.pdfutility&hl=en&gl=us",
-        "description": "PDF Utility Tools - Converter - Images To PDF , Merge, Reorder, Compress, No Ads..."
     },
     {
         "title": "Toolbox: 180+ Tools & Utility",
@@ -136,12 +136,20 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
-        "title": "All Smart Tools - Daily Uses",
-        "icon": "https://play-lh.googleusercontent.com/QF48zb-hS1I41jeluuOMTuChhDzHHbqaD4KiEZHRxbVlVMndnDqVVUOhhwotCAFaVwNgQPXFtbAHKz2S3rFKeA",
-        "score": 3.9,
-        "installs": "50,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.sm.allsmarttools&hl=en&gl=us",
-        "description": "125+ daily utility tools: converter, scanner, calculator & more..."
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
+        "title": "Eldes Utility tool",
+        "icon": "https://play-lh.googleusercontent.com/t1wrqZgab_egBG-Yk0VRjy7EajvPhpMi7Rbro9jZYLZPl8D91jxmVWcv1XX9JDhgQr1iHvijENP7_0f8qnPP",
+        "score": 4.0,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=org.eldes.tool&hl=en&gl=us",
+        "description": "Configure new generation Eldes hybrid systems...."
     },
     {
         "title": "Flex Utility Premium",
@@ -152,17 +160,9 @@
         "description": "The Ultimate Flex Drivers Utility App - Convenient Tapping & Block Filters..."
     },
     {
-        "title": "Omni Tools – All in One Tools",
-        "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
-        "score": 4.0,
-        "installs": "5,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.tss.omnitools&hl=en&gl=us",
-        "description": "61 Free Tools: Scanner, Calculator, PDF, Finance & Health Suite. 100% Offline...."
-    },
-    {
         "title": "IndusInd Bank: Savings A/C, FD",
         "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.3,
+        "score": 4.2,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
         "description": "Savings Account, Fixed Deposit (FD)..."
@@ -174,6 +174,14 @@
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indiebiz&hl=en&gl=us",
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
+    },
+    {
+        "title": "Indie Shuffle - New Songs",
+        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
+        "score": 4.3,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
+        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
     },
     {
         "title": "Indies' Lies",
@@ -216,20 +224,20 @@
         "description": "Secure corporate banking on-the-go with cash and trade services...."
     },
     {
-        "title": "Indus: Invest In India From AU",
-        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
-        "score": 4.0,
-        "installs": "5,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
-        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
-    },
-    {
         "title": "Indus by Sarvam",
         "icon": "https://play-lh.googleusercontent.com/LSzd-wCtujxb92EbESkysihlNH5AtqSqvb_W-a9-5WHXlhADlUc7RRXoWCc3Qfy6kczfbLEMR7uYS1miwBiArg",
         "score": 4.7,
         "installs": "100,000+",
         "url": "https://play.google.com/store/apps/details?id=ai.sarvam.indus&hl=en&gl=us",
         "description": "Chat in every Indian language. Your AI assistant, built for India...."
+    },
+    {
+        "title": "Indus: Invest In India From AU",
+        "icon": "https://play-lh.googleusercontent.com/vuVtdf6ZMxTzc5oaOHBTuqtmZ7T-v_E2UMXEM5Lw3RzhmUyzLENWegfzA9G7wqfUl01o8EWrKiv6SxM0L3IJNA",
+        "score": 4.0,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.indus.investments.au&hl=en&gl=us",
+        "description": "Indus allows Australian's to invest directly in the world’s fastest economy...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
