@@ -120,20 +120,20 @@
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
     },
     {
-        "title": "Tooly Toolbox All Tools In One",
-        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
-        "score": 4.3,
-        "installs": "500,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
-        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
-    },
-    {
         "title": "QuickTools: Utility Tools",
         "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
         "score": 4.0,
         "installs": "100+",
         "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
         "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
+        "title": "Tooly Toolbox All Tools In One",
+        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
+        "score": 4.3,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
+        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
         "title": "Utility Hub:All-Tools-in One",
@@ -152,17 +152,17 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
-        "title": "Basic Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/bbCTanHssZGixvzEnou-uym9_h_MxlpJ09EcjH5sXKbWzj5GjzMqcrEhgky5PfQaQGkKsvEr66nlL7pSEr3cQ6U",
+        "title": "Handy Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/Lgx8J5YxYO3tilmJxbY8ZgKnx9am2-1rHa6FjM8j9bnV4pSAQscS_DFnbHkvEjWx_562NK7hHJhWWUL5mX-4",
         "score": 4.0,
-        "installs": "0+",
-        "url": "https://play.google.com/store/apps/details?id=com.basicutilitytools.multi.functionalhelper&hl=en&gl=us",
-        "description": "A collection of simple and useful tools for everyday tasks...."
+        "installs": "5+",
+        "url": "https://play.google.com/store/apps/details?id=com.apps.handyutilitytools&hl=en&gl=us",
+        "description": "Access calculators, unit converters, date tools & everyday utilities in one app...."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
         "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.3,
+        "score": 4.2,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
         "description": "Savings Account, Fixed Deposit (FD)..."
@@ -216,14 +216,6 @@
         "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
     },
     {
-        "title": "IPO INDIE - Info & GMP",
-        "icon": "https://play-lh.googleusercontent.com/ytB3aNDgQVpQirCAkXV8q0OcQmweXHSNJ-rj36auVYORsGH00Q4E6PkgWlJK8KJCG3ejU_CgrAvYC7W6uV-Upw",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.twinthink.ipoindex&hl=en&gl=us",
-        "description": "IPO INDIE is your simple and reliable companion for tracking MainBoard IPOs...."
-    },
-    {
         "title": "Indie Pizza Co.",
         "icon": "https://play-lh.googleusercontent.com/ov5l0J1fhGkK-WsXzM1EQ3gS6Zi8X07R8O5yWUrAW_Bmbbtt6Mrto1lKTYy7YXy2MjJTSjKY0fDmYs3CdV6gEVk",
         "score": 4.0,
@@ -238,6 +230,14 @@
         "installs": "100,000+",
         "url": "https://play.google.com/store/apps/details?id=com.Stannum.IndieJonasthegreattombraider&hl=en&gl=us",
         "description": "Embark on a journey of discovery and adventure as archaeologist Indy...."
+    },
+    {
+        "title": "IndiaMART - B2B Marketplace",
+        "icon": "https://play-lh.googleusercontent.com/l1P88tVq00LyQygVVGG__i91a0wBweS1ZxLJVvDFBIWwwUALKbImr5XjgfS3RsZy9LAP-MvUctTn3XY1ioSGabg",
+        "score": 4.8,
+        "installs": "10,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.indiamart.m&hl=en&gl=us",
+        "description": "Online Business App to find Verified Exporters, Manufacturers & Suppliers India..."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
