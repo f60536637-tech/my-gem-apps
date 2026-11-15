@@ -2,7 +2,7 @@
     {
         "title": "Google Calendar",
         "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.7,
+        "score": 4.6,
         "installs": "10,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
         "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
@@ -96,20 +96,20 @@
         "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
     },
     {
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
         "title": "PDF Utility Tools & Converter",
         "icon": "https://play-lh.googleusercontent.com/SXWeMjtwxj39ssoL2Gy2gJOYNNVDTU1W-6m__jdgkThwPaRw4DP3ANCNF44eucIXLbDg7rCrzkFIYkFVY7aq",
         "score": 4.0,
         "installs": "1,000+",
         "url": "https://play.google.com/store/apps/details?id=com.premium.pdfutility&hl=en&gl=us",
         "description": "PDF Utility Tools - Converter - Images To PDF , Merge, Reorder, Compress, No Ads..."
-    },
-    {
-        "title": "OmniTools - All-in-One Toolkit",
-        "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
-        "score": 4.7,
-        "installs": "50,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
-        "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
         "title": "Toolbox: 180+ Tools & Utility",
@@ -120,12 +120,12 @@
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
     },
     {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
-        "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+        "title": "OmniTools - All-in-One Toolkit",
+        "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
+        "score": 4.7,
+        "installs": "50,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
+        "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
         "title": "Tooly Toolbox All Tools In One",
@@ -136,14 +136,6 @@
         "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
-        "title": "Utility Hub:All-Tools-in One",
-        "icon": "https://play-lh.googleusercontent.com/CIEoYA-j8d74VA9wsSUzJWZpxBrA0Ry1OI5a7TSbwoEBkfN7Bm7k2YYygJlkJvLFrjFHk2ey4gFOuN5CxS60PQ",
-        "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=com.mahim.utilityhub&hl=en&gl=us",
-        "description": "All-in-one utility app for expenses, bills, tasks, calculations, and daily tools..."
-    },
-    {
         "title": "Eldes Utility tool",
         "icon": "https://play-lh.googleusercontent.com/t1wrqZgab_egBG-Yk0VRjy7EajvPhpMi7Rbro9jZYLZPl8D91jxmVWcv1XX9JDhgQr1iHvijENP7_0f8qnPP",
         "score": 4.0,
@@ -152,12 +144,20 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
-        "title": "Handy Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/Lgx8J5YxYO3tilmJxbY8ZgKnx9am2-1rHa6FjM8j9bnV4pSAQscS_DFnbHkvEjWx_562NK7hHJhWWUL5mX-4",
+        "title": "Toolive - Productivity Tools",
+        "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
+        "score": 3.9,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
+        "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
+    },
+    {
+        "title": "Utility Hub:All-Tools-in One",
+        "icon": "https://play-lh.googleusercontent.com/CIEoYA-j8d74VA9wsSUzJWZpxBrA0Ry1OI5a7TSbwoEBkfN7Bm7k2YYygJlkJvLFrjFHk2ey4gFOuN5CxS60PQ",
         "score": 4.0,
-        "installs": "5+",
-        "url": "https://play.google.com/store/apps/details?id=com.apps.handyutilitytools&hl=en&gl=us",
-        "description": "Access calculators, unit converters, date tools & everyday utilities in one app...."
+        "installs": "10+",
+        "url": "https://play.google.com/store/apps/details?id=com.mahim.utilityhub&hl=en&gl=us",
+        "description": "All-in-one utility app for expenses, bills, tasks, calculations, and daily tools..."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
@@ -176,20 +176,20 @@
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
     },
     {
-        "title": "Indie Shuffle - New Songs",
-        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
-        "score": 4.3,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
-        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
-    },
-    {
         "title": "Indies' Lies",
         "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
         "score": 4.3,
         "installs": "500,000+",
         "url": "https://play.google.com/store/apps/details?id=com.yokagame.ProjectS&hl=en&gl=us",
         "description": "Indies' Lies is a single-player roguelike deck building game...."
+    },
+    {
+        "title": "Indie Shuffle - New Songs",
+        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
+        "score": 4.3,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
+        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
     },
     {
         "title": "IndusInd Insurance",
@@ -216,14 +216,6 @@
         "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
     },
     {
-        "title": "Indie Pizza Co.",
-        "icon": "https://play-lh.googleusercontent.com/ov5l0J1fhGkK-WsXzM1EQ3gS6Zi8X07R8O5yWUrAW_Bmbbtt6Mrto1lKTYy7YXy2MjJTSjKY0fDmYs3CdV6gEVk",
-        "score": 4.0,
-        "installs": "0+",
-        "url": "https://play.google.com/store/apps/details?id=ca.craver.indiepizzaco&hl=en&gl=us",
-        "description": "Indie Pizza Co. Ordering and Rewards..."
-    },
-    {
         "title": "Indie Jonas. Great Tomb Raider",
         "icon": "https://play-lh.googleusercontent.com/_2qmPNxUJsThI4KuhuOhjxQli1Zse4kUbI3HAcGttqna3kl4QDnjZgrcHZGfg4Xyzi8DtmthgRGJ0FTRYMGLGsk",
         "score": 4.6,
@@ -238,6 +230,14 @@
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indiamart.m&hl=en&gl=us",
         "description": "Online Business App to find Verified Exporters, Manufacturers & Suppliers India..."
+    },
+    {
+        "title": "Indus by Sarvam",
+        "icon": "https://play-lh.googleusercontent.com/LSzd-wCtujxb92EbESkysihlNH5AtqSqvb_W-a9-5WHXlhADlUc7RRXoWCc3Qfy6kczfbLEMR7uYS1miwBiArg",
+        "score": 4.7,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=ai.sarvam.indus&hl=en&gl=us",
+        "description": "Chat in every Indian language. Your AI assistant, built for India...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
