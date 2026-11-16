@@ -74,7 +74,7 @@
     {
         "title": "Grok Bot",
         "icon": "https://play-lh.googleusercontent.com/yQblC3CCrdtX-XRHUKXsKwEGGFOPTwBWkKr-XeBZiouALcVDdh6liKbxNstwllkyUUpb_0EkzkYtDI1mVx8Q",
-        "score": 4.7,
+        "score": 4.8,
         "installs": "1,000,000+",
         "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot&hl=en&gl=us",
         "description": "AI agents that do real work. Easy setup, just explain what you want automated...."
@@ -94,14 +94,6 @@
         "installs": "1,000+",
         "url": "https://play.google.com/store/apps/details?id=com.vedtechnologies.toolbox&hl=en&gl=us",
         "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
-    },
-    {
-        "title": "QuickTools: Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
-        "score": 4.0,
-        "installs": "100+",
-        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
-        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
     },
     {
         "title": "PDF Utility Tools & Converter",
@@ -128,6 +120,14 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
+        "title": "QuickTools: Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/QrzxL_q3LhFo6-w9yg5llKKfwqB1xUZjIphe3cXL1fPBlkbw7ynqT6m4g_TwfpMpJW21GC1DP_iEZfyyuW6XBks",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.quickhub.tools&hl=en&gl=us",
+        "description": "QR scanner, calculators, converters, barcode scanner & daily tools...."
+    },
+    {
         "title": "Tooly Toolbox All Tools In One",
         "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
         "score": 4.3,
@@ -152,12 +152,12 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
-        "title": "Utility Hub:All-Tools-in One",
-        "icon": "https://play-lh.googleusercontent.com/CIEoYA-j8d74VA9wsSUzJWZpxBrA0Ry1OI5a7TSbwoEBkfN7Bm7k2YYygJlkJvLFrjFHk2ey4gFOuN5CxS60PQ",
+        "title": "Handy Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/Lgx8J5YxYO3tilmJxbY8ZgKnx9am2-1rHa6FjM8j9bnV4pSAQscS_DFnbHkvEjWx_562NK7hHJhWWUL5mX-4",
         "score": 4.0,
-        "installs": "10+",
-        "url": "https://play.google.com/store/apps/details?id=com.mahim.utilityhub&hl=en&gl=us",
-        "description": "All-in-one utility app for expenses, bills, tasks, calculations, and daily tools..."
+        "installs": "5+",
+        "url": "https://play.google.com/store/apps/details?id=com.apps.handyutilitytools&hl=en&gl=us",
+        "description": "Access calculators, unit converters, date tools & everyday utilities in one app...."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
@@ -288,14 +288,6 @@
         "description": "70+ utility tools in one app. Works offline and is decentralised...."
     },
     {
-        "title": "Toolive - Productivity Tools",
-        "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
-        "score": 3.9,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
-        "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
-    },
-    {
         "title": "SuperCool",
         "icon": "https://play-lh.googleusercontent.com/3H5lfWi-_zvbykzt7gZe3WSicgSUdurYGiEtn_tVeMUS438lDv_tSlb3wPSsA44RLdiOZ3sCHc6emtZxzwvS5yQ",
         "score": 3.9,
@@ -304,19 +296,27 @@
         "description": "Your AI assistant, reimagined for mobile. Chat, create, and execute AI tools..."
     },
     {
+        "title": "Smart Tools - All In One",
+        "icon": "https://play-lh.googleusercontent.com/5ICBja3ydraF98pbG-E08J2Yi8n42ysnA_gmmNd_0K_rOH3HeVmhSQ0c9JgLkqASv4nANubZUaB0XBZnT6p2",
+        "score": 4.5,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.pcmehanik.smarttoolbox&hl=en&gl=us",
+        "description": "Useful kit of tools with carpenter, construction, measure tools and utilities...."
+    },
+    {
+        "title": "Toolive - Productivity Tools",
+        "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
+        "score": 3.9,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
+        "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
+    },
+    {
         "title": "ToolBox Pro: All-in-One Tools",
         "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
         "score": 4.6,
         "installs": "1,000+",
         "url": "https://play.google.com/store/apps/details?id=com.toolboxpro.app&hl=en&gl=us",
         "description": "110+ tools in one app: calculators, converters, phone tests and more..."
-    },
-    {
-        "title": "Goods: Mobile Repair Tools",
-        "icon": "https://play-lh.googleusercontent.com/CZVT1_4wclcSSdeV5IQJtQ0HPyu5RS2hBsDq7adA9b4i5E-2PSZQMk43r9_qQch67LDoFg7-SSRKfqdgVd8n3A",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=tn.goods.app&hl=en&gl=us",
-        "description": "Affordable Mobile Repair Tools and Equipment for Professionals and DIY Users..."
     }
 ]
