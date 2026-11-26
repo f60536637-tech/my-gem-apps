@@ -112,6 +112,14 @@
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
     },
     {
+        "title": "Tooly Toolbox All Tools In One",
+        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
+        "score": 4.2,
+        "installs": "500,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
+        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
+    },
+    {
         "title": "Toolbox: 180+ Tools & Utility",
         "icon": "https://play-lh.googleusercontent.com/7Autiyz7PDdjI91XyQr7S5FZlzUYOvoUwqhQr2iRZIysJuI82mAJD_GOd3OEaoxvmb1Z0BWNH5c2qYarhCnvoOo",
         "score": 4.0,
@@ -120,12 +128,12 @@
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
     },
     {
-        "title": "Tooly Toolbox All Tools In One",
-        "icon": "https://play-lh.googleusercontent.com/3cC0TdImz_yFG1VFu_hDbHhsy0kGPgijsoffE_1gVjlmAOYMVzQfGmGa50m3JyyYbiqENSeveS0bNcLSNbnB",
-        "score": 4.2,
-        "installs": "500,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp&hl=en&gl=us",
-        "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
+        "title": "PingTools Network Utilities",
+        "icon": "https://play-lh.googleusercontent.com/_I8Tw-au_PA211c4ScOei2aONSUHDIHUnW9yCt41S5-pSwhpI8isXIYwopJ3brWySqoPVu8OaM_7cOA6QKWjhQ",
+        "score": 4.6,
+        "installs": "5,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools&hl=en&gl=us",
+        "description": "PingTools - a simple but powerful set of network utilities...."
     },
     {
         "title": "Eldes Utility tool",
@@ -136,33 +144,25 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
-        "title": "Power Utility Suite JE Toolkit",
-        "icon": "https://play-lh.googleusercontent.com/V54k70HDQvybfrRqIr50VIszKAlQNZpPmNNpNK00gXvRCu36Wz7bAmIo25lERrvhMt5Tw8fRR2xYuLURYyMUnRg",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.axcedeee.theftcalculator&hl=en&gl=us",
-        "description": "The all-in-one field engineering toolkit — estimates, maps, calculations & more...."
+        "title": "Toolive - Productivity Tools",
+        "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
+        "score": 3.9,
+        "installs": "10,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
+        "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
-        "title": "KitNext: 64 Utility Tools",
-        "icon": "https://play-lh.googleusercontent.com/gCyoV6KXhAX07KobUmVglqESiIxHoaOCHV8mUSxByXx3oVu03OFmB2o1MdYDmUsfyz57BMhRtpBM7VyEUM8rVQ",
+        "title": "Omni Tools – All in One Tools",
+        "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
         "score": 4.0,
-        "installs": "1+",
-        "url": "https://play.google.com/store/apps/details?id=com.vasu.kitnext.kitnext&hl=en&gl=us",
-        "description": "Everything useful, in your pocket. Offline utility toolbox with 64 tools...."
-    },
-    {
-        "title": "IP Tools: Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/iA5wk12Kyuh8olJ6cH_4Ak00lyPhfQa73fP1bBGxLMyNoTvP3Kk-3-rqZ1q-bREhx6IyTNynRfmnIbXMnUsoc_0",
-        "score": 4.6,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.ddm.iptools&hl=en&gl=us",
-        "description": "Advanced WiFi Analyzer & Network Scanner. Ping, DNS, ISP, IP tracker..."
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.tss.omnitools&hl=en&gl=us",
+        "description": "61 Free Tools: Scanner, Calculator, PDF, Finance & Health Suite. 100% Offline...."
     },
     {
         "title": "IndusInd Bank: Savings A/C, FD",
         "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.3,
+        "score": 4.2,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
         "description": "Savings Account, Fixed Deposit (FD)..."
@@ -200,20 +200,20 @@
         "description": "IndusInd Insurance App (formerly Reliance Self-i) by IndusInd General Insurance..."
     },
     {
-        "title": "Indie Goes Oracle Cards",
-        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
-        "score": 4.8,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
-        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
-    },
-    {
         "title": "Digital Rupee by IndusInd Bank",
         "icon": "https://play-lh.googleusercontent.com/WYg2Vb7lYJHfpO_gKwBiAkm8f20ZOE8MBIZPkYbWZrFW_n12bTmnaOIY4-1Jl-yF9HexbLbNKw9gsuGUsgxUMA",
         "score": 4.0,
         "installs": "100,000+",
         "url": "https://play.google.com/store/apps/details?id=in.sarvatra.erupeeINDUSIND&hl=en&gl=us",
         "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
+    },
+    {
+        "title": "Indie Goes Oracle Cards",
+        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
+        "score": 4.8,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
+        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
     },
     {
         "title": "IndusDIRECT Corporate",
@@ -232,12 +232,12 @@
         "description": "An app designed for Indusind Nippon Life Insurance existing Customer...."
     },
     {
-        "title": "IndiaMART - B2B Marketplace",
-        "icon": "https://play-lh.googleusercontent.com/l1P88tVq00LyQygVVGG__i91a0wBweS1ZxLJVvDFBIWwwUALKbImr5XjgfS3RsZy9LAP-MvUctTn3XY1ioSGabg",
-        "score": 4.8,
-        "installs": "10,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.indiamart.m&hl=en&gl=us",
-        "description": "Online Business App to find Verified Exporters, Manufacturers & Suppliers India..."
+        "title": "Indus by Sarvam",
+        "icon": "https://play-lh.googleusercontent.com/LSzd-wCtujxb92EbESkysihlNH5AtqSqvb_W-a9-5WHXlhADlUc7RRXoWCc3Qfy6kczfbLEMR7uYS1miwBiArg",
+        "score": 4.7,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=ai.sarvam.indus&hl=en&gl=us",
+        "description": "Chat in every Indian language. Your AI assistant, built for India...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -296,20 +296,20 @@
         "description": "The all-in-one app for air conditioning and refrigeration technicians...."
     },
     {
-        "title": "ToolBox Pro: All-in-One Tools",
-        "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
-        "score": 4.7,
-        "installs": "5,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.toolboxpro.app&hl=en&gl=us",
-        "description": "110+ tools in one app: calculators, converters, phone tests and more..."
-    },
-    {
         "title": "Toolive - Productivity Tools",
         "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
         "score": 3.9,
         "installs": "10,000+",
         "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
+    },
+    {
+        "title": "ToolBox Pro: All-in-One Tools",
+        "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
+        "score": 4.7,
+        "installs": "5,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.toolboxpro.app&hl=en&gl=us",
+        "description": "110+ tools in one app: calculators, converters, phone tests and more..."
     },
     {
         "title": "D-Tools Mobile Install",
