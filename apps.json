@@ -1,13 +1,5 @@
 [
     {
-        "title": "Google Calendar",
-        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
-        "score": 4.6,
-        "installs": "10,000,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
-        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
-    },
-    {
         "title": "ChatGPT",
         "icon": "https://play-lh.googleusercontent.com/T9J8e9oxxPd600j_KPM4KK2GHfNpUpGBdTy8lHPXBXpOUfGusRuZXj0UMgFNrP8we6LVt9V-AibEgcLootE6VK4",
         "score": 4.8,
@@ -30,6 +22,14 @@
         "installs": "1,000,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en&gl=us",
         "description": "Work smarter with intelligence for writing, planning, organizing & productivity...."
+    },
+    {
+        "title": "Google Calendar",
+        "icon": "https://play-lh.googleusercontent.com/vEoqLbT_QkYcEaawWBRc22N6i98OUtOUpM1LmKdVs_xx7lCsUyFfV0ZiqoUXjMijUteiBhhN4K5MpoF96FRNOg",
+        "score": 4.6,
+        "installs": "10,000,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us",
+        "description": "Make the most of your day with Google Calendar, part of Google Workspace..."
     },
     {
         "title": "Google Keep - Notes and lists",
@@ -96,20 +96,20 @@
         "description": "40+ everyday tools: compass, ruler, calculator, timer, QR scanner and more...."
     },
     {
-        "title": "PDF Utility Tools & Converter",
-        "icon": "https://play-lh.googleusercontent.com/SXWeMjtwxj39ssoL2Gy2gJOYNNVDTU1W-6m__jdgkThwPaRw4DP3ANCNF44eucIXLbDg7rCrzkFIYkFVY7aq",
-        "score": 4.0,
-        "installs": "1,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.premium.pdfutility&hl=en&gl=us",
-        "description": "PDF Utility Tools - Converter - Images To PDF , Merge, Reorder, Compress, No Ads..."
-    },
-    {
         "title": "OmniTools - All-in-One Toolkit",
         "icon": "https://play-lh.googleusercontent.com/DF0JE9uor_mC37wSZi21owTJtcGNfKOM8FafSQrWZld3kPQGYvK3TPTbV9DRgAz1LL4K8o_ekxmcQc2paH4Gcg",
         "score": 4.7,
         "installs": "50,000+",
         "url": "https://play.google.com/store/apps/details?id=com.snitl.omnitools&hl=en&gl=us",
         "description": "The Swiss-Army app for your phone - fast & offline-ready...."
+    },
+    {
+        "title": "PDF Utility Tools & Converter",
+        "icon": "https://play-lh.googleusercontent.com/SXWeMjtwxj39ssoL2Gy2gJOYNNVDTU1W-6m__jdgkThwPaRw4DP3ANCNF44eucIXLbDg7rCrzkFIYkFVY7aq",
+        "score": 4.0,
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.premium.pdfutility&hl=en&gl=us",
+        "description": "PDF Utility Tools - Converter - Images To PDF , Merge, Reorder, Compress, No Ads..."
     },
     {
         "title": "Tooly Toolbox All Tools In One",
@@ -120,20 +120,20 @@
         "description": "All-in-one smart tool box with converters, utilities & AI productivity tools...."
     },
     {
+        "title": "Tooly – All Smart Tools & AI",
+        "icon": "https://play-lh.googleusercontent.com/7cw5kv4U2RPC1b8T7fXIhZ3OJS9O9o3pgcKmg-NJaMJe0hkis6JjB4EVIZrioWxBHM-H1uLZzkJGj_baeZAy",
+        "score": 4.0,
+        "installs": "100+",
+        "url": "https://play.google.com/store/apps/details?id=com.tooly.lp&hl=en&gl=us",
+        "description": "100+ smart utilities, AI tools & everyday solutions in one app...."
+    },
+    {
         "title": "Toolbox: 180+ Tools & Utility",
         "icon": "https://play-lh.googleusercontent.com/7Autiyz7PDdjI91XyQr7S5FZlzUYOvoUwqhQr2iRZIysJuI82mAJD_GOd3OEaoxvmb1Z0BWNH5c2qYarhCnvoOo",
         "score": 4.0,
         "installs": "50+",
         "url": "https://play.google.com/store/apps/details?id=com.toolbox.utilities&hl=en&gl=us",
         "description": "180+ tools: PDF, photo, video, QR, calculator, business, security, files & no Ad..."
-    },
-    {
-        "title": "PingTools Network Utilities",
-        "icon": "https://play-lh.googleusercontent.com/_I8Tw-au_PA211c4ScOei2aONSUHDIHUnW9yCt41S5-pSwhpI8isXIYwopJ3brWySqoPVu8OaM_7cOA6QKWjhQ",
-        "score": 4.6,
-        "installs": "5,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools&hl=en&gl=us",
-        "description": "PingTools - a simple but powerful set of network utilities...."
     },
     {
         "title": "Eldes Utility tool",
@@ -144,14 +144,6 @@
         "description": "Configure new generation Eldes hybrid systems...."
     },
     {
-        "title": "Toolive - Productivity Tools",
-        "icon": "https://play-lh.googleusercontent.com/WJYTlEFMNh9A_deI2aCxE7FYmllS5JeOttrCsv9S5NfBqzNvWWhNCbn3YMaKM1cWHWfFwOop2L-HQtG3xW1y",
-        "score": 3.9,
-        "installs": "10,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.digitaltool.mobiletoolbox.smarttoolbox&hl=en&gl=us",
-        "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
-    },
-    {
         "title": "Omni Tools – All in One Tools",
         "icon": "https://play-lh.googleusercontent.com/UZJUdRWQVD7kS9LtJSwCBZeQwOWflOfrB7XxB4vv_nvxCNmJczdik1elEOjUS8xvpDbgIWKIXBFDM33I8I5Bsg",
         "score": 4.0,
@@ -160,9 +152,17 @@
         "description": "61 Free Tools: Scanner, Calculator, PDF, Finance & Health Suite. 100% Offline...."
     },
     {
+        "title": "KitNext: 64 Utility Tools",
+        "icon": "https://play-lh.googleusercontent.com/gCyoV6KXhAX07KobUmVglqESiIxHoaOCHV8mUSxByXx3oVu03OFmB2o1MdYDmUsfyz57BMhRtpBM7VyEUM8rVQ",
+        "score": 4.0,
+        "installs": "1+",
+        "url": "https://play.google.com/store/apps/details?id=com.vasu.kitnext.kitnext&hl=en&gl=us",
+        "description": "Everything useful, in your pocket. Offline utility toolbox with 64 tools...."
+    },
+    {
         "title": "IndusInd Bank: Savings A/C, FD",
         "icon": "https://play-lh.googleusercontent.com/Cn6cS0OECBsXmC09JCFCx3P1hvojKsKsowbul7YJTD4FV48zFnB50uB5mc83oLXpVAQYBaJznwT0R8dCv8bGWbg",
-        "score": 4.2,
+        "score": 4.3,
         "installs": "10,000,000+",
         "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en&gl=us",
         "description": "Savings Account, Fixed Deposit (FD)..."
@@ -176,6 +176,14 @@
         "description": "Experience Better Business Banking: Manage Current Ac, Loan & Merchant Solutions..."
     },
     {
+        "title": "Indie Shuffle - New Songs",
+        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
+        "score": 4.3,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
+        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
+    },
+    {
         "title": "Indies' Lies",
         "icon": "https://play-lh.googleusercontent.com/3Q4FxTcYES_b5AW8ufGg07YZrF6_cHcmmHlwCPs97kKEhAmq5hrM3cZchEEpCVNhgIFhHc6CsBv7YsCJN5GqaA",
         "score": 4.3,
@@ -184,12 +192,12 @@
         "description": "Indies' Lies is a single-player roguelike deck building game...."
     },
     {
-        "title": "Indie Shuffle - New Songs",
-        "icon": "https://play-lh.googleusercontent.com/5T3t1ALVTW_YUO_2RujVXqo_RdGzwfEt1J60vvtdfpFDwJAb9labsB8S0KgXqLAYHghWWat44M2yRyQeFURz_g",
-        "score": 4.3,
+        "title": "Indie Goes Oracle Cards",
+        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
+        "score": 4.8,
         "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.decoderhq.indieshuffle&hl=en&gl=us",
-        "description": "Indie Shuffle's free smart playlists are the first step in your music discovery...."
+        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
+        "description": "Black Friday - Cyber Monday Sale! Save up to 30% on all the decks in this app!..."
     },
     {
         "title": "IndusInd Insurance",
@@ -208,14 +216,6 @@
         "description": "Digital Rupee (e₹) powered by IndusInd Bank, to propagate RBI’s CBDC Network..."
     },
     {
-        "title": "Indie Goes Oracle Cards",
-        "icon": "https://play-lh.googleusercontent.com/T_lP-kmckkmSud-E9wCWPl3HK_s7DXaybrxecYAJ8jIjKqKlHEXJVuQ4rWSFCHum5YE3gHB_YCnljXKistQw",
-        "score": 4.8,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=air.com.indiegoes.oraclecards&hl=en&gl=us",
-        "description": "Discover a large and ever-growing collection of oracle decks, all in one place!..."
-    },
-    {
         "title": "IndusDIRECT Corporate",
         "icon": "https://play-lh.googleusercontent.com/umYsbr-uKSPVTMEGpAskIRhCFdG-iUKpMzIQIKyhrv0ILkgF2kDkrJkTPFGfGd6apRznwSWUBL3bHFVe8b0s",
         "score": 4.0,
@@ -224,20 +224,20 @@
         "description": "Secure corporate banking on-the-go with cash and trade services...."
     },
     {
-        "title": "INLIC Customer Connect App",
-        "icon": "https://play-lh.googleusercontent.com/EwiuEs558f-S4q7ONi6vpEIGTYdv-wXUJuZeCFzOAtHyuIhcbnom4PnznGG_B_NF90Czu2IZJlllryDsueiU",
-        "score": 4.0,
-        "installs": "100,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.rnlicustomer.app&hl=en&gl=us",
-        "description": "An app designed for Indusind Nippon Life Insurance existing Customer...."
-    },
-    {
         "title": "Indus by Sarvam",
         "icon": "https://play-lh.googleusercontent.com/LSzd-wCtujxb92EbESkysihlNH5AtqSqvb_W-a9-5WHXlhADlUc7RRXoWCc3Qfy6kczfbLEMR7uYS1miwBiArg",
         "score": 4.7,
         "installs": "100,000+",
         "url": "https://play.google.com/store/apps/details?id=ai.sarvam.indus&hl=en&gl=us",
         "description": "Chat in every Indian language. Your AI assistant, built for India...."
+    },
+    {
+        "title": "Indie Jonas. Great Tomb Raider",
+        "icon": "https://play-lh.googleusercontent.com/_2qmPNxUJsThI4KuhuOhjxQli1Zse4kUbI3HAcGttqna3kl4QDnjZgrcHZGfg4Xyzi8DtmthgRGJ0FTRYMGLGsk",
+        "score": 4.6,
+        "installs": "100,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.Stannum.IndieJonasthegreattombraider&hl=en&gl=us",
+        "description": "Embark on a journey of discovery and adventure as archaeologist Indy...."
     },
     {
         "title": "NFC.cool Tools Reader & Writer",
@@ -264,36 +264,12 @@
         "description": "Top tools from Navy COOL, the Navy's Credentialing Opportunities On-Line website..."
     },
     {
-        "title": "Cool Black Launcher Theme",
-        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
-        "score": 4.5,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
-        "description": "Cool Black Launcher Theme to Make your phone stylish..."
-    },
-    {
         "title": "ColabTools",
         "icon": "https://play-lh.googleusercontent.com/tatqtLtP99Ijj-bpKG0Ky9IR7vjLtZcU9JKiZAke71NaAzl11Me5cOAuU0H-6THphUhQ_ZJcHQWtyMe3re2u",
         "score": 4.0,
         "installs": "5,000+",
         "url": "https://play.google.com/store/apps/details?id=com.colabtools.app&hl=en&gl=us",
         "description": "ColabTools is an enterprise-level construction management app...."
-    },
-    {
-        "title": "All Tools: 70+ Utilities",
-        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
-        "score": 4.6,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
-        "description": "70+ utility tools in one app. Works offline and is decentralised...."
-    },
-    {
-        "title": "Ref Tools",
-        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
-        "score": 4.7,
-        "installs": "1,000,000+",
-        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
-        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
     },
     {
         "title": "Toolive - Productivity Tools",
@@ -304,6 +280,22 @@
         "description": "150+ essential tools in one app. PDF, Calc, Unit Converter & more, Works Offline..."
     },
     {
+        "title": "All Tools: 70+ Utilities",
+        "icon": "https://play-lh.googleusercontent.com/1UeZgCt8ES62CkyfAZUbhrC1Nnw9y1-PuV9wXbhurR_T6wno4bH0G4Bi3JVjE4-gUOd3qT49nor9hSsqEvs-228",
+        "score": 4.6,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.pradhyu.alltoolseveryutility&hl=en&gl=us",
+        "description": "70+ utility tools in one app. Works offline and is decentralised...."
+    },
+    {
+        "title": "Cool Black Launcher Theme",
+        "icon": "https://play-lh.googleusercontent.com/1G4ukWA1T5I3O8TrajzNem4gWSOuvsTNIrsuS3-8uSyamIB-vpQHbmFH4VD_1ZhVJt9s52DjvedMqzRMvpoAow",
+        "score": 4.5,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.launcher.smart.cool.black.theme&hl=en&gl=us",
+        "description": "Cool Black Launcher Theme to Make your phone stylish..."
+    },
+    {
         "title": "ToolBox Pro: All-in-One Tools",
         "icon": "https://play-lh.googleusercontent.com/iWD89fAtnf21NWkQAEPznVMYhmNY50l2sLy6Fy48xyIYM76XUHRd7Fg2Ku3_PtmL21Lo-ITu1rv2xlyxTdKA",
         "score": 4.7,
@@ -312,11 +304,19 @@
         "description": "110+ tools in one app: calculators, converters, phone tests and more..."
     },
     {
-        "title": "D-Tools Mobile Install",
-        "icon": "https://play-lh.googleusercontent.com/BwRTuCZd7qcrNrtyewrZOO5oQdpzGqCMcHXWOq2sncmp6mi19MceMbfdavzPBBn1xTnIW6Ci9hfXqa9V0F1J",
+        "title": "Goods: Mobile Repair Tools",
+        "icon": "https://play-lh.googleusercontent.com/CZVT1_4wclcSSdeV5IQJtQ0HPyu5RS2hBsDq7adA9b4i5E-2PSZQMk43r9_qQch67LDoFg7-SSRKfqdgVd8n3A",
         "score": 4.0,
-        "installs": "500+",
-        "url": "https://play.google.com/store/apps/details?id=com.dtools.mobileinstall&hl=en&gl=us",
-        "description": "D-Tools Mobile Install - Offline field service & task management for technicians..."
+        "installs": "1,000+",
+        "url": "https://play.google.com/store/apps/details?id=tn.goods.app&hl=en&gl=us",
+        "description": "Affordable Mobile Repair Tools and Equipment for Professionals and DIY Users..."
+    },
+    {
+        "title": "Ref Tools",
+        "icon": "https://play-lh.googleusercontent.com/tNI8sRoHH1aWBbsZPDiX4_FliCb5U9qFrUYQOHvX29g0ufA9TcW2EwvOmwml1SxhyLpDxoxH56L4lF6zw4m4bQ",
+        "score": 4.7,
+        "installs": "1,000,000+",
+        "url": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=en&gl=us",
+        "description": "The all-in-one app for air conditioning and refrigeration technicians...."
     }
 ]
